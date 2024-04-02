@@ -3,7 +3,7 @@
 #define PI 3.142
 void main()
 {
-  float r,area,volume;
+  float r, area, volume;
 clrsctr();
 printf("Enter the volume of radius:");
 scanf("%f",&r);
