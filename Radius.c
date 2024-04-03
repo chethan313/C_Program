@@ -5,7 +5,7 @@ void main()
 {
   float r, area, volume;
 clrsctr();
-printf("Enter the volume of radius:");
+printf("Enter the volume of radius  :");
 scanf("%f",&r);
 area=4.0*PI*r*r;
 volume=(4.0/3.0)*PI*r*r*r;
