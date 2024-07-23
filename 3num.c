@@ -5,6 +5,7 @@ int main() {
 
     // Input from user
     printf("Enter three numbers: ");
+    
     scanf("%d %d %d", &num1, &num2, &num3);
 
     // Finding the largest number
